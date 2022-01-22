@@ -7,6 +7,7 @@ Repositorio del "blog" de los [cursos de git y github](https://platzi.com/clases
 * Crusio
 * Imperio
 * Expiliarmus
+* So now I'm typing in english because why not
 
 ahora intentare poner negritas en la sigiente frase:
 after all this time -**always**-
