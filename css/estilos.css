@@ -1,7 +1,7 @@
 body
 {
     background: whitesmoke;
-    color: darkslategray;
+    color: white;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -10,8 +10,8 @@ body
 }
 #cabecera
 {
-    background: black;
-    color: white;
+    background: whitesmoke;
+    color: #ff9000;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -42,13 +42,13 @@ body
 }
 #post
 {
-    background: whitesmoke;
+    background: #ff9000;
     padding: 1em;
 
 }
 #footer
 {
-    background: dimgray;
+    background: #c97800;
     color: white;
     text-align: center;
     padding: 0.5em;
